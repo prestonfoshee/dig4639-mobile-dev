@@ -6,3 +6,4 @@ The *ice* folder contains in-class exercises.
 
 ## About Me
 This should be replaced.
+I am a Frontend developer who also enjoys graphic design and some programming as hobbies.
